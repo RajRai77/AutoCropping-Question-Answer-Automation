@@ -1,0 +1,21 @@
+# Ignore Output Folder
+Final_Database_Images/
+extracted_questions/
+
+# Ignore Input PDF Folders (Starts with JEE...)
+JEE*/
+Shift*/
+
+# Ignore Python Cache and Virtual Envs
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore System Files
+Thumbs.db
